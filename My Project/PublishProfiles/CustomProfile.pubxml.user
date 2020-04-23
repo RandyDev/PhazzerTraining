@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZCr0k6YuWUWyT5lL6OkOkQAAAAACAAAAAAAQZgAAAAEAACAAAADL28I3bVPKTfLHqiaU0VdFePIdtt/3Fc2lD4VpXjyk4AAAAAAOgAAAAAIAACAAAAAa4y0elMNVOAFXP7vztbxz4QPSBlXH90HbgIp+OtFEuCAAAABZtkFU/MBCzJB/gwYN7M6JwJwarCJFY0dfyc7PaQbuMEAAAACdSNe4IxxnIG+XeWp5v7hfyIgXKkv2HdJiAuVUFOGT8rVPP0Fq+f89XhHAfjLJGv1f4N6IFFmhoDvdVNb29tW+</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.phazzertraining.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Administration/AddNew.aspx">
+      <publishTime>04/02/2019 21:58:46</publishTime>
+    </File>
+    <File Include="Administration/UserAdmin.aspx">
+      <publishTime>04/08/2019 20:10:39</publishTime>
+    </File>
+    <File Include="Administration/Web.config">
+      <publishTime>04/08/2019 20:30:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/0.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/1.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/2.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/3.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/4.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/5.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/6.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/7.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/8.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/9.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/A.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/B.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/C.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/D.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/E.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/F.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/G.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/H.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/I.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/J.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/K.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/L.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/M.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/N.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/O.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/P.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Q.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/R.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/S.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/T.wav">
+      <publishTime>09/10/2018 18:38:08</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/U.wav">
+      <publishTime>09/10/2018 18:38:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/V.wav">
+      <publishTime>09/10/2018 18:38:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/W.wav">
+      <publishTime>09/10/2018 18:38:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/X.wav">
+      <publishTime>09/10/2018 18:38:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Y.wav">
+      <publishTime>09/10/2018 18:38:10</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Z.wav">
+      <publishTime>09/10/2018 18:38:10</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/de-DE.tdf">
+      <publishTime>09/10/2018 18:38:48</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/en-US.tdf">
+      <publishTime>04/06/2019 00:17:56</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/fr-FR.tdf">
+      <publishTime>04/06/2019 00:17:56</publishTime>
+    </File>
+    <File Include="bin/ABCpdf.dll">
+      <publishTime>10/14/2015 14:25:27</publishTime>
+    </File>
+    <File Include="bin/AWSSDK.Core.dll">
+      <publishTime>04/18/2018 08:20:34</publishTime>
+    </File>
+    <File Include="bin/AWSSDK.S3.dll">
+      <publishTime>04/18/2018 08:20:34</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/11/2013 09:10:04</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>09/11/2013 09:10:04</publishTime>
+    </File>
+    <File Include="bin/EnvDTE.dll">
+      <publishTime>12/31/2018 15:33:49</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AnalysisServices.AdomdClient.dll">
+      <publishTime>10/16/2018 14:03:58</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2016 13:22:24</publishTime>
+    </File>
+    <File Include="bin/PdfEnterpriseServices.dll">
+      <publishTime>10/14/2015 14:24:29</publishTime>
+    </File>
+    <File Include="bin/Phazzer.dll">
+      <publishTime>04/16/2019 06:02:03</publishTime>
+    </File>
+    <File Include="bin/Phazzer.pdb">
+      <publishTime>04/16/2019 06:02:03</publishTime>
+    </File>
+    <File Include="bin/Phazzer.xml">
+      <publishTime>04/16/2019 06:02:03</publishTime>
+    </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>12/31/2018 15:33:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>11/22/2013 10:21:56</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.Design.dll">
+      <publishTime>09/09/2018 19:00:20</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.Spreadsheet.dll">
+      <publishTime>09/10/2018 18:28:44</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>09/09/2018 19:00:20</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>09/09/2018 19:00:20</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Core.dll">
+      <publishTime>09/10/2018 18:28:44</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Flow.dll">
+      <publishTime>09/10/2018 18:28:46</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Spreadsheet.dll">
+      <publishTime>09/10/2018 18:28:48</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll">
+      <publishTime>09/10/2018 18:28:48</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Zip.dll">
+      <publishTime>09/10/2018 18:28:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>04/02/2019 21:50:14</publishTime>
+    </File>
+    <File Include="css/dracostyle.css">
+      <publishTime>04/02/2019 21:50:14</publishTime>
+    </File>
+    <File Include="css/signature-pad.css">
+      <publishTime>04/02/2019 21:50:14</publishTime>
+    </File>
+    <File Include="css/styles.css">
+      <publishTime>04/07/2019 09:21:16</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>04/04/2019 20:16:07</publishTime>
+    </File>
+    <File Include="editProfile.aspx">
+      <publishTime>04/05/2019 23:18:14</publishTime>
+    </File>
+    <File Include="Exams/Certificate.aspx">
+      <publishTime>04/09/2019 07:39:53</publishTime>
+    </File>
+    <File Include="Exams/Exam.aspx">
+      <publishTime>04/15/2019 13:31:18</publishTime>
+    </File>
+    <File Include="Exams/Web.config">
+      <publishTime>04/09/2019 06:00:10</publishTime>
+    </File>
+    <File Include="homepg.aspx">
+      <publishTime>04/02/2019 21:48:50</publishTime>
+    </File>
+    <File Include="images/ajax-loader-smallBar.gif">
+      <publishTime>04/04/2019 20:11:33</publishTime>
+    </File>
+    <File Include="images/favicon.ico">
+      <publishTime>04/02/2019 21:49:50</publishTime>
+    </File>
+    <File Include="images/header-colds.png">
+      <publishTime>04/02/2019 21:49:50</publishTime>
+    </File>
+    <File Include="images/KFLogo.png">
+      <publishTime>04/02/2019 21:49:50</publishTime>
+    </File>
+    <File Include="images/PhazzerTrainingLogo1.png">
+      <publishTime>04/04/2019 19:43:52</publishTime>
+    </File>
+    <File Include="images/Reader-16.gif">
+      <publishTime>04/02/2019 21:49:50</publishTime>
+    </File>
+    <File Include="Instructor/ClassAssignments.aspx">
+      <publishTime>04/07/2019 01:37:43</publishTime>
+    </File>
+    <File Include="Instructor/ClassList.aspx">
+      <publishTime>04/06/2019 12:54:36</publishTime>
+    </File>
+    <File Include="LogIn.aspx">
+      <publishTime>04/02/2019 21:58:46</publishTime>
+    </File>
+    <File Include="Manager/CreateExam.aspx">
+      <publishTime>04/09/2019 06:08:47</publishTime>
+    </File>
+    <File Include="Manager/UpdateExam.aspx">
+      <publishTime>04/08/2019 17:49:50</publishTime>
+    </File>
+    <File Include="Menus/adminMenu.xml">
+      <publishTime>04/08/2019 19:36:44</publishTime>
+    </File>
+    <File Include="Menus/ClerkMenu.xml">
+      <publishTime>04/02/2019 21:49:21</publishTime>
+    </File>
+    <File Include="Menus/ClientMenu.xml">
+      <publishTime>04/02/2019 21:49:21</publishTime>
+    </File>
+    <File Include="Menus/InstructorMenu.xml">
+      <publishTime>04/08/2019 19:55:44</publishTime>
+    </File>
+    <File Include="Menus/ManagerMenu.xml">
+      <publishTime>04/07/2019 01:50:51</publishTime>
+    </File>
+    <File Include="Menus/StudentMenu.xml">
+      <publishTime>04/07/2019 01:51:29</publishTime>
+    </File>
+    <File Include="ReleaseOfLiability.aspx">
+      <publishTime>04/09/2019 20:50:42</publishTime>
+    </File>
+    <File Include="SignMeUp.aspx">
+      <publishTime>04/02/2019 21:58:46</publishTime>
+    </File>
+    <File Include="UnAuthorizedNoMaster.aspx">
+      <publishTime>04/02/2019 21:58:46</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/16/2019 05:56:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

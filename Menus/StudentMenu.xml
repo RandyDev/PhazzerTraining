@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items Text="">
+
+  <Item Text="Home" Url="~/default.aspx" />
+  <Item Text="My Profile" Url="~/editProfile.aspx" />
+
+  <Item Text="Student Tools" Url="">
+    <Item Text="History" Url="/Student/FindCerts.aspx" />
+    <Item Text="My Profile" Url="~/editProfile.aspx" />
+    <Item Text="Find my certificate(s)" Url="/Student/FindCerts.aspx" />
+    <Item Text="PT Release of Liability" Url="~/ReleaseOfLiability.aspx" />
+  </Item>
+    <Item Text="Help" Url="">
+      <Item Text="Support Documents" Url="">
+      </Item>
+      <Item Text="Support Website" Url="/#" />
+      <Item Text="future use" Url="~/" />
+    </Item>
+</Items>
+
